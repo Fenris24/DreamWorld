@@ -1,0 +1,19 @@
+rectangle 77 87 179 147
+rectangle 60 47 185 138
+rectangle 16 47 179 138
+rectangle 0 47 185 138
+rectangle 1 47 187 138
+rectangle 1 47 187 138
+rectangle 10 44 185 138
+rectangle 2 42 114 134
+rectangle 0 47 178 137
+rectangle 60 41 188 134
+rectangle 17 41 185 134
+rectangle 0 41 188 134
+rectangle 5 41 186 134
+rectangle 1 41 187 134
+rectangle 8 41 185 134
+rectangle 0 41 114 138
+null
+null
+null

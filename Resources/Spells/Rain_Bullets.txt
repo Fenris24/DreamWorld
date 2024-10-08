@@ -1,0 +1,19 @@
+null
+null
+null
+null
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 0 0 47 34
+rectangle 5 0 42 30
+rectangle 8 0 39 20
+rectangle 15 0 32 10

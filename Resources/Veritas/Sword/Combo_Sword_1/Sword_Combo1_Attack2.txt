@@ -1,0 +1,6 @@
+null
+null
+null
+rectangle 30 0 48 28
+rectangle 3 5 22 16
+null

@@ -1,0 +1,6 @@
+rectangle 16 8 35 39
+rectangle 16 8 35 39
+rectangle 16 8 35 39
+rectangle 16 8 35 39
+rectangle 16 8 35 39
+rectangle 16 8 35 39

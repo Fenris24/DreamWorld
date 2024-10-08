@@ -1,0 +1,15 @@
+null
+null
+null
+rectangle 92 50 174 160
+rectangle 40 58 153 169
+rectangle 18 62 164 180
+rectangle 37 102 98 172
+rectangle 97 42 169 162
+rectangle 24 21 140 87
+rectangle 20 59 150 109
+rectangle 10 57 186 116
+rectangle 10 60 185 114
+rectangle 68 61 181 118
+rectangle 101 69 179 103
+null
